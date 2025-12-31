@@ -763,3 +763,12 @@ body {
   color: var(--neon-blue);
   opacity: 0.8;
 }
+.flip-card-back img {
+  transition: transform 0.4s ease;
+}
+
+.flip-card-back img:hover {
+  transform: scale(1.05);
+}
+
+/* ====== END OF STYLE.CSS ====== */
