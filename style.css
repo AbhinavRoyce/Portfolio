@@ -53,7 +53,7 @@ body {
 .section-subtitle {
   text-align: center;
   color: var(--text-muted);
-  max-width: 480px;
+  max-width: px;
   margin: 0 auto 3rem;
 }
 
