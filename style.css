@@ -51,7 +51,7 @@ body {
 }
 
 .section-subtitle {
-  text-align: ;
+  text-align: center;
   color: var(--text-muted);
   max-width: 480px;
   margin: 0 auto 3rem;
