@@ -10,7 +10,7 @@
   --border-glass: rgba(255, 255, 255, 0.12);
   --shadow-neon: 0 0 18px rgba(0, 229, 255, 0.45);
   --radius-xl: 1.5rem;
-  --transition-fast: 0.2s ease-out;
+  --transition-fast: 0.2s ease-;
   --transition-med: 0.35s ease-out;
 }
 
