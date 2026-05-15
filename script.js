@@ -25,7 +25,7 @@ function typeLoop() {
 
   let speed = 80;
 
-  if (currentCharIndex === currentPhrase.length) {
+  if (currentCharIndex === currentPhrase.) {
     isDeleting = true;
     speed = 1400; // pause at end
   } else if (currentCharIndex < 0) {
