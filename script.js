@@ -30,7 +30,7 @@ function typeLoop() {
     speed = 1400; // pause at end
   } else if (currentCharIndex < 0) {
     isDeleting = false;
-    currentPhraseIndex = (currentPhraseIndex + ) % typingPhrases.length;
+    currentPhraseIndex = (currentPhraseIndex + 1) % typingPhrases.length;
     speed = 400;
   }
 
