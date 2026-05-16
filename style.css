@@ -25,7 +25,7 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: ;
   font-family: 'Poppins', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   background: var(--bg-gradient);
   color: var(--text-main);
