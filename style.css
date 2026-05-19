@@ -36,7 +36,7 @@ body {
 
 .container {
   width: min(1120px, 100% - 2.5rem);
-  margin: 10 auto;
+  margin: 0 auto;
 }
 
 .section {
