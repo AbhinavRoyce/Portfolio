@@ -769,7 +769,7 @@ body {
 }
 
 .flip-hint {
-  display: inline-block;
+  display: -block;
   margin-top: 1rem;
   font-size: 0.75rem;
   color: var(--neon-blue);
