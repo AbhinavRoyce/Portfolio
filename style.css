@@ -316,7 +316,7 @@ body {
 .hero-card {
   position: relative;
   padding: 1.2rem 1.4rem;
-  z-index: 1;
+  z-: 1;
 }
 
 /* Glassmorphism */
