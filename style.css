@@ -314,7 +314,7 @@ body {
 }
 
 .hero-card {
-  position: ;
+  position: relative;
   padding: 1.2rem 1.4rem;
   z-index: 1;
 }
