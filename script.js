@@ -6,7 +6,7 @@ const typingPhrases = [
   "Building intelligent ML systems.",
   "Designing clean, minimal UIs.",
   "Solving DSA problems daily.",
-  "Open to internships & collabs."
+  "Open to internships & ."
 ];
 
 let currentPhraseIndex = 0;
