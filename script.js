@@ -23,7 +23,7 @@ function typeLoop() {
     typedTextEl.textContent = currentPhrase.slice(0, currentCharIndex--);
   }
 
-  let speed = ;
+  let speed = 50;
 
   if (currentCharIndex === currentPhrase.length) {
     isDeleting = true;
