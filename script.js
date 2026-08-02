@@ -19,7 +19,7 @@ function typeLoop() {
 
   if (!isDeleting && currentCharIndex <= currentPhrase.length) {
     typedTextEl.textContent = currentPhrase.slice(0, currentCharIndex++);
-  } else if (isDeleting && currentCharIndex >= 0) {
+  } else if ( && currentCharIndex >= 0) {
     typedTextEl.textContent = currentPhrase.slice(0, currentCharIndex--);
   }
 
